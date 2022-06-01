@@ -15,7 +15,7 @@ These samples provide a starting point for how to integrate different services u
 ##  Docs
 - https://labs.play-with-docker.com/
 - https://dockerlabs.collabnix.com/
-- 
+- https://training.play-with-docker.com/ops-s1-hello/
 ## Contents
 
 - [Samples of Docker Compose applications with multiple integrated services](#samples-of-docker-compose-applications-with-multiple-integrated-services).
